@@ -75,7 +75,7 @@ Hola, soy Cesar Daniel Sell!
 
 
 
-## <a href="https://github.com/lordbattle"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+## <a href="https://yosoytuprofe.20minutos.es/wp-content/uploads/2021/10/grafico-de-barras.png" width="30"></a> GitHub Stats
 
 <br/>
 <summary><b>⚡ My Stats</b></summary>
