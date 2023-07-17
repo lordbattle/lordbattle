@@ -109,7 +109,7 @@ Hola, soy Cesar Daniel Sell!
 
 ## ¡Trabajemos juntos en tu proyecto!
 
-Si tiene alguna pregunta sobre el desarrollo web front-end, no dude en <a href="mailto:cesar_ab05@hotmail.com">comuníquese conmigo por correo electrónico</a>.
+Si tiene alguna pregunta sobre el desarrollo web, no dude en <a href="mailto:cesar_ab05@hotmail.com">comunicarse conmigo por correo electrónico</a>.
 
 Puedes contratarme en <a href="https://www.linkedin.com/in/cesar-daniel-sell-42a206157/">LinkedIn</a> para trabajar.
 
@@ -118,7 +118,7 @@ Puedes contratarme en <a href="https://www.linkedin.com/in/cesar-daniel-sell-42a
 
 ## No es perfecto, ¿no?
 
-**<a href="https://github.com/lordbattle"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+**<a href="https://github.com/lordbattle"><img alt="Feedback" src="https://img.shields.io/badge/Preguntame%20lo%20que%20quieras-1abc9c.svg"></a>**
 
   </td>
   </tr>
