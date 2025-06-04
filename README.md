@@ -31,7 +31,7 @@ Hola, soy Cesar Daniel S. Bolzon!
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:cesar_ab05@hotmail.com"><img img src="https://img.shields.io/badge/Hotmail-00CED1.svg?style=plastic&logo=microsoftoutlook&logoColor=white" alt="Hotmail"/></a>
+	<a href="mailto:cesarbolit25@hotmail.com"><img img src="https://img.shields.io/badge/Hotmail-00CED1.svg?style=plastic&logo=microsoftoutlook&logoColor=white" alt="Hotmail"/></a>
 	<a href="https://www.linkedin.com/in/cesar-daniel-sell-42a206157/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/lordbattle"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
